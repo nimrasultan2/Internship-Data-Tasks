@@ -1,4 +1,4 @@
-Task: Exploring and Visualizing a dataset
+# Exploring and Visualizing a dataset
 
 The primary goal of this task was to develop foundational skills in data science by learning how to read, summarize, and visualize a dataset using Python's standard data libraries. 
 I dug into the Iris dataset to understand its structure and uncover patterns using Python's data viz tools. The goal? Get familiar with data exploration techniques like loading data, summarizing it, and creating visual insights.
