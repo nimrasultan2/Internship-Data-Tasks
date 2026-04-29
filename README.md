@@ -1,4 +1,4 @@
-Task: Credit Risk Prediction
+# Credit Risk Prediction
 
 The goal of this task was to build a classification model that predicts whether a loan applicant will default on their loan.
 1. I addressed missing values by using the median for numerical data (like Loan Amount) and the mode (most frequent value) for categorical data.
