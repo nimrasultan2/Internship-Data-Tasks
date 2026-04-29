@@ -1,4 +1,4 @@
-TASK: DATA HANDLING USING NUMPY AND PANDAS 
+# DATA HANDLING USING NUMPY AND PANDAS 
 
 The primary objective of this task was to establish a solid foundation in data handling by learning how to properly import, inspect, and prepare a dataset for analysis. The focus was on ensuring data quality through cleaning techniques and performing initial statistical assessments using NumPy.
 I followed a systematic process to prepare the raw data. 
